@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "author": "Andres Morales",
-  "license": "MIT",
+  "license": "none",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
